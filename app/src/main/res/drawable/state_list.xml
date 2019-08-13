@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+15-05-2019
+Muhammad Ilyas
+10116339
+IF -8
+-->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="@color/colorselected" android:state_checked="true" />
+    <item android:color="@color/colorfragtext"/>
+</selector>

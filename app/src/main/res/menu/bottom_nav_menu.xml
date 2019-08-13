@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+15-05-2019
+Muhammad Ilyas
+10116339
+IF -8
+-->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/home"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/profil"
+        android:title="@string/title_profil" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/kontak"
+        android:title="@string/title_kontak"
+
+        />
+
+    <item
+        android:id="@+id/navigation_about"
+        android:icon="@drawable/ic_error_black_24dp"
+        android:title="@string/title_tentang"
+
+        />
+
+</menu>

@@ -1,0 +1,32 @@
+<!--
+15-05-2019
+Muhammad Ilyas
+10116339
+IF -8
+-->
+
+<resources>
+    <string name="app_name">Data Kontak</string>
+    <string name="title_home">Home</string>
+    <string name="title_profil">Kontak</string>
+    <string name="title_kontak">Daftar Kontak</string>
+    <string name="title_tentang">Tentang</string>
+    <string name="title_logout">Log Out</string>
+    <string name="name">Muhammad Ilyas</string>
+    <string name="nim">10116339</string>
+    <string name="kelas">IF - 8</string>
+    <string name="iden">Halo semua. Nama saya Muhammad Ilyas. Saya lahir di Bandung. Saya tinggal di Jl. Jatihandap no 164, Cicaheum, Bandung. Hobi saya adalah bermain game, menonton film, dan membaca beberapa buku karena saya penggemar berat Dan Brown. Saya lulus dari Sekolah Menengah Kejuruan 2 Bandung, dan sekarang saya seorang mahasiswa di Universitas Komputer Indonesia. Saya memiliki kepribadian yang menyenangkan. Saya sangat ramah meskipun kadang-kadang saya malu jika saya bertemu orang baru.</string>
+    <string name="telepon">Telepon</string>
+    <string name="email">Email</string>
+    <string name="fb">Facebook</string>
+    <string name="steam">Steam Link</string>
+    <string name="no">+6285798521952</string>
+    <string name="iemail">alert081@mahasiswa.unikom.ac.id</string>
+    <string name="ifb">http://facebook.com/alert787</string>
+    <string name="isteam">http://steamcommunity.com/id/alert7878</string>
+    <string name="app">Data Kontak</string>
+    <string name="versi">Version: v1.1.0</string>
+    <string name="tentang">Aplikasi ini dibuat untuk memenuhi Ujian Tengah Semester dan Ujian Akhir Semester mata pelajaran Aplikasi Komputasi Bergerak. Aplikasi ini berisi tentang profil pembuat, kontak pembuat, daftar kontak teman, bantuan serta fitur telepon, email dan lihat profil facebook teman.</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+15-05-2019
+Muhammad Ilyas
+10116339
+IF -8
+-->
+
+<resources>
+    <color name="colorPrimary">#191919</color>
+    <color name="colorPrimaryDark">#2D3436</color>
+    <color name="colorAccent">#446CA0</color>
+    <color name="coloratas">#96A4A4</color>
+    <color name="colorbg">#242A2D</color>
+    <color name="colorselected"> #446CA0</color>
+    <color name="colorfragtext">#96A4A4</color>
+    <color name="colortext"> #5E6565</color>
+    <color name="colorkotak">  #3F484E</color>
+    <color name="colorkotak2"> #616568</color>
+    <color name="white"> #FDFFFF</color>
+    <color name="coba">#202123</color>
+    <color name="backup">#47BB6B</color>
+
+</resources>
